@@ -23,6 +23,10 @@
 //    (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 //    SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
+
+// This is a useless comment a.k.a. TESTING, TESTING, 123, 123.. -jl
+
+
 #include "aws_s3.h"
 #include "aws_s3_misc.h"
 #include "multidict.h"
